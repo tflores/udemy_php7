@@ -10,7 +10,6 @@ $cad->setEmail("bruce.leroy@mail.com");
 $cad->setSenha("123456");
 
 //echo $cad->__toString();
-var_dump($cad);
 $cad->registrarVenda();
 
 
